@@ -1,4 +1,4 @@
-## Aviana's First CS193 Homework
+# Aviana's First CS193 Homework
 
 - I like how we learn about important tools in CS193.
 - I like how we are given a week to complete homework.
