@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Aviana's First CS193 Homework
 
-- I like how we learn about important tools in CS193.. 
-- I like how we are taught cool tricks to easily navigate these sources.
-- I like how the TAs are nice and funny in CS193.
+-I like how we learn about important tools in CS193.
+-I like how we are taught cool tricks to easily navigate these sources.
+-I like how the TAs are nice and funny in CS193.
 
 ### Jekyll Themes
 
